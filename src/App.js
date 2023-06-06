@@ -21,7 +21,7 @@ export default function App() {
 
       <h2>Icon</h2>
       <div className="tag-container">
-        <Icon src={iconImage} alt="Icon" />
+        <Icon src={iconImage} alt="Icon" isHoverable/>
       </div>
 
       <h2>Icon inside tag</h2>
