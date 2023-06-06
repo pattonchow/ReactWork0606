@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.tag-container {
+  display: flex;
+  align-items: center;
+}
+
+.tag-container > * {
+  height: 100%;
+}
